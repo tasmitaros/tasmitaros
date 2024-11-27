@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Tas, a passionate data guy!
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/tasmitaros/)!
+
 <!--
 **tasmitaros/tasmitaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
